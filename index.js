@@ -6,7 +6,7 @@
  * list of character groups, allowing users to create unique combinations for their specific needs.
  *
  * Usage:
- * - Instantiate the RandomGenerator class with an optional custom string.
+ * - Instantiate the RandomGenerator class wwith an optional custom string.
  * - Utilize the `generate` method to generate random strings with specified characteristics.
  *
  * Important Considerations:
