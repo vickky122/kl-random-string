@@ -1,0 +1,41 @@
+{
+  "name": "random-id-generate",
+  "version": "1.0.3",
+  "description": "A versatile NPM package for generating random strings with customizable options.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vickky122/kl-random-string.git"
+  },
+  "keywords": [
+    "\"random\"",
+    "\"string\"",
+    "\"generator\"",
+    "\"pseudorandom\"",
+    "\"password\"",
+    "\"complete\"",
+    "\"chance\"",
+    "\"unique\"",
+    "\"custom\"",
+    "\"numeric\"",
+    "\"alpha\"",
+    "\"alphanumeric\"",
+    "\"symbol\"",
+    "\"special\"",
+    "\"id\"",
+    "\"token\""
+  ],
+  "author": "Vikrant Kumar Yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vickky122/kl-random-string/issues"
+  },
+  "homepage": "https://github.com/vickky122/kl-random-string#readme",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
